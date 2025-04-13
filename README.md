@@ -29,3 +29,4 @@ For questions, feedback, or contributions, feel free to reach out via GitHub: [g
 
 *MIT License*  
 Copyright (c) 2025 **Isaac Gitumbi**
+# isaacs-photography-website # isaacs-photography-website
